@@ -1,6 +1,6 @@
 {
   "name": "enneagram-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Enneagram data and query library: the nine types, centres, wings, lines, Hornevian and Harmonic groups, instincts, and descriptions of each type.",
   "main": "index.js",
   "author": "Spencer Stern (https://github.com/sstern42)",
