@@ -1,6 +1,6 @@
 {
   "status": "draft, for review",
-  "note": "Fears, desires and lines follow the common modern account of the Enneagram, checked against several published summaries. The descriptions are original, written as observable behaviour.",
+  "note": "Fears, desires and lines follow the common modern account of the Enneagram, checked against several published summaries. The descriptions are original, written as observable behaviour, and were checked against published accounts in 0.1.1.",
   "types": {
     "1": {
       "type": 1,
@@ -25,7 +25,7 @@
       "stress": 8,
       "growth": 4,
       "summary": "Warm and attentive, drawn to meeting other people's needs.",
-      "behaviour": "They notice what others need, often before those people do, and step in to help. Being close and useful to people matters a great deal to them. They find it much easier to give than to ask, and their own needs can go unspoken until resentment builds.",
+      "behaviour": "They notice what others need, often before those people do, and step in to help. Being close and useful to people matters a great deal to them. They find it much easier to give than to ask, and their own needs can go unspoken until resentment builds. Help can come with unspoken strings, and they may hover over or get too involved in other people's lives.",
       "signs": ["Offers help before being asked", "Struggles to say what they need", "Feels hurt when their care goes unnoticed"],
       "under_stress": "Becomes demanding and controlling, pointing out everything they've done for others.",
       "at_ease": "Looks after their own needs honestly and gives freely without needing a return."
@@ -53,7 +53,7 @@
       "stress": 2,
       "growth": 1,
       "summary": "Expressive and introspective, searching for what is authentic and meaningful.",
-      "behaviour": "They feel deeply and want their life and work to reflect who they really are. They're drawn to beauty, depth and what's missing, and can feel set apart from others. Ordinary routines can feel flat, and they may dwell on longing or on what others seem to have.",
+      "behaviour": "They feel deeply and want their life and work to reflect who they really are. They're drawn to beauty, depth and what's missing, and can feel set apart from others. Ordinary routines can feel flat, their moods shift readily, and they may dwell on longing or on what others seem to have, with self-doubt running underneath.",
       "signs": ["Cares a lot about being genuine", "Notices what's missing more than what's there", "Expresses themselves through taste, art or style"],
       "under_stress": "Becomes clingy and seeks reassurance, needing others to show they care.",
       "at_ease": "Turns feeling into steady, disciplined action and follows through on what matters."
@@ -68,7 +68,7 @@
       "growth": 8,
       "summary": "Observant and independent, focused on understanding.",
       "behaviour": "They gather knowledge and like to understand something thoroughly before acting. They guard their time, energy and privacy and can feel drained by too many demands. They tend to watch from a little distance and engage on their own terms.",
-      "signs": ["Researches before committing", "Needs time alone to recharge", "Keeps their inner life private"],
+      "signs": ["Researches before committing", "Needs time alone to recharge", "Keeps their thoughts and feelings to themselves"],
       "under_stress": "Scatters into restless distraction, jumping between interests to avoid what's pressing.",
       "at_ease": "Acts decisively on what they know and steps forward with confidence."
     },
@@ -83,7 +83,7 @@
       "summary": "Committed and alert, focused on security and trust.",
       "behaviour": "They think ahead about what could go wrong and prepare for it. Trust matters to them, and they're loyal to the people and groups they've committed to. They can swing between seeking reassurance and pushing back against authority, testing whether something is safe to rely on.",
       "signs": ["Plans for worst cases", "Asks for others' views before deciding", "Questions authority until it earns trust"],
-      "under_stress": "Throws themselves into work and image, trying to prove they're capable.",
+      "under_stress": "Turns competitive and driven, throwing themselves into work and image to prove they're capable.",
       "at_ease": "Relaxes, trusts themselves and life more, and feels steady without constant checking."
     },
     "7": {
@@ -123,7 +123,7 @@
       "stress": 6,
       "growth": 3,
       "summary": "Easygoing and accepting, focused on harmony.",
-      "behaviour": "They see many points of view and help people get along. They avoid conflict and can go along with others' plans, sometimes losing track of what they want themselves. When pressed they may dig in quietly rather than argue openly.",
+      "behaviour": "They see many points of view and help people get along. They avoid conflict and can merge into others' plans, sometimes losing track of what they want themselves. They resist change, put off what might disturb the peace, and when pressed dig in quietly rather than argue openly.",
       "signs": ["Smooths over tension in a group", "Finds it hard to name their own preferences", "Puts off decisions that might upset someone"],
       "under_stress": "Becomes anxious and worried, second-guessing themselves.",
       "at_ease": "Gets motivated, sets their own goals and pursues them with energy."
