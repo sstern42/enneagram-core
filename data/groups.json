@@ -1,0 +1,25 @@
+{
+  "centres": {
+    "Gut": { "name": "Gut", "altName": "Instinctive", "types": [8, 9, 1], "theme": "Autonomy, control and resistance", "description": "Types that react first from instinct and a sense of their own boundaries, often around anger, whether shown, held in or numbed." },
+    "Heart": { "name": "Heart", "altName": "Feeling", "types": [2, 3, 4], "theme": "Identity, image and connection", "description": "Types concerned with how they are seen and valued by others, and with who they really are." },
+    "Head": { "name": "Head", "altName": "Thinking", "types": [5, 6, 7], "theme": "Security, planning and fear", "description": "Types that meet the world through thinking and anticipation, often responding to uncertainty or anxiety." }
+  },
+  "hornevian": {
+    "groupNote": "How each type tries to get its needs met, after Karen Horney's three moves: toward, against and away from people.",
+    "Assertive": { "name": "Assertive", "altName": "Moving against", "types": [3, 7, 8], "description": "Pursue what they want directly and expect others to adapt." },
+    "Compliant": { "name": "Compliant", "altName": "Moving toward", "types": [1, 2, 6], "description": "Meet their needs by living up to standards, duties or the expectations of others." },
+    "Withdrawn": { "name": "Withdrawn", "altName": "Moving away", "types": [4, 5, 9], "description": "Step back into their inner world to find what they need." }
+  },
+  "harmonic": {
+    "groupNote": "How each type responds when things go wrong or don't meet its needs.",
+    "Positive outlook": { "name": "Positive outlook", "types": [2, 7, 9], "description": "Look on the bright side and play down problems, their own and others'." },
+    "Competency": { "name": "Competency", "types": [1, 3, 5], "description": "Set feelings aside and deal with the problem logically and effectively." },
+    "Emotional realness": { "name": "Emotional realness", "altName": "Reactive", "types": [4, 6, 8], "description": "Respond with strong feeling first and want others to respond to theirs." }
+  },
+  "instincts": {
+    "groupNote": "Three areas of life everyone attends to, one usually more than the others. Combined with a type they give the instinctual subtypes, which this package does not describe.",
+    "sp": { "code": "sp", "name": "Self-preservation", "description": "Security, comfort, resources and practical matters for oneself and one's household." },
+    "so": { "code": "so", "name": "Social", "description": "Belonging, standing and roles in groups and communities." },
+    "sx": { "code": "sx", "name": "One-to-one", "altName": "Sexual", "description": "Intense connection and chemistry with particular people or interests." }
+  }
+}

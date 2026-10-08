@@ -1,0 +1,30 @@
+{
+  "name": "enneagram-core",
+  "version": "0.1.0",
+  "description": "Enneagram data and query library: the nine types, centres, wings, lines, Hornevian and Harmonic groups, instincts, and descriptions of each type.",
+  "main": "index.js",
+  "author": "Spencer Stern (https://github.com/sstern42)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstern42/enneagram-core.git"
+  },
+  "keywords": [
+    "enneagram",
+    "personality",
+    "typology",
+    "wings",
+    "triads",
+    "instincts"
+  ],
+  "files": [
+    "index.js",
+    "data/"
+  ],
+  "scripts": {
+    "test": "node test/basic.test.js"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
